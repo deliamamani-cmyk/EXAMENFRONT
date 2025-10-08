@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="en" data-beasties-container><head><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+export default `<!DOCTYPE html><html lang="en" data-beasties-container><head><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><base href="/lab1-Angular/">
   <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta name="description" content>
@@ -27,4 +27,4 @@
         <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script> 
 <link rel="modulepreload" href="chunk-XHC5ZAHB.js"><script src="main-IRMARMJD.js" type="module"></script>
 
-<script id="ng-state" type="application/json">{"__nghData__":[{},{"c":{"36":[{"i":"c2155231199","r":1}]}},{"c":{"0":[{"i":"c2273354355","r":1}]}}]}</script></body></html>
+<script id="ng-state" type="application/json">{"__nghData__":[{},{"c":{"36":[{"i":"c2155231199","r":1}]}},{"c":{"0":[{"i":"c2273354355","r":1}]}}]}</script></body></html>`;
