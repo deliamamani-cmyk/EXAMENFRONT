@@ -2,21 +2,21 @@ import { Routes } from '@angular/router';
 import { Layout } from './layout/layout';
 
 export const routes: Routes = [
-
     {
-        path:"",
-        component: Layout,
+        path:'',
+        component:Layout,
         children:[
             {
-                path:"",
+                path:'',
                 loadComponent:()=>
-                    import("./home/home").then(m=>m.Home)
+                    import('./home/home').then(m=>m.Home)
             },
             {
-                path:"about",
+                path:'about',
                 loadComponent:()=>
-                    import("./about/about").then(m=>m.About)
+                    import('./about/about').then(m=>m.About)
             }
         ]
     }
+    
 ];
