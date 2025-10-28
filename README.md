@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 # laboratorio1
 lab1
+=======
+# EXAMENFRONT
+EXAMENFRONT
+>>>>>>> 596ada1132541540486ca16f8e8a225381842521
